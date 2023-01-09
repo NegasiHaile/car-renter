@@ -1,4 +1,4 @@
-# stask in squesnce
+# My list of plans in squesnce
 
     1,  Front-end project initial setup with npx create-react-app car-renter --template redux-typescript: 2023-01-09
     2,  Learn the COUNTER redux-typescript template: 2023-01-10
